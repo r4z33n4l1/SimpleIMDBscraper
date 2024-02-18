@@ -1,6 +1,6 @@
 ## Links
 
-### Install Chrom Driver
+### Install Chrome Driver
 - [Chrome Driver](https://googlechromelabs.github.io/chrome-for-testing/)
 
 ### Set up virtual environment
